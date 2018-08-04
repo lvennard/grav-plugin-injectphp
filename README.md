@@ -64,13 +64,11 @@ refix injectphp: .
 
 Notice the tag is not in the header section of the file.
 
-...
->   default.md
->
->   ---
->   title: InjectPhp Works Awesome
->   ---
->   injectphp:http://example.com/scripts/hello.php
-...
+`   default.md`
+
+`   ---`
+`   title: InjectPhp Works Awesome`
+`   ---`
+`   injectphp:http://example.com/scripts/hello.php`
 
 
