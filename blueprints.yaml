@@ -8,7 +8,7 @@ author:
 homepage: https://github.com/lvennard/grav-plugin-injectphp
 keywords: grav, php, plugin, markdown
 bugs: https://github.com/lvennard/grav-plugin-injectphp/issues
-docs: https://github.com/lvennard/grav-plugin-injectphp/blob/develop/README.md
+docs: https://github.com/lvennard/grav-plugin-injectphp/blob/master/README.md
 license: MIT
 
 form:
